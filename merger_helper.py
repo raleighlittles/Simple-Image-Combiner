@@ -39,4 +39,3 @@ def concatenate_images_in_row_or_column(files: typing.List, output_directory : s
 
     p = subprocess.Popen(concat_cmd, shell=True)
     p.communicate()
-
