@@ -1,8 +1,8 @@
 # About
 
-This is a simple Python script that uses ImageMagick's [convert](https://imagemagick.org/script/convert.php) script to concatenate images. This is useful for quickly creating mosaic/tiled images.
+This is a simple Python script that uses ImageMagick's [convert](https://imagemagick.org/script/convert.php) script to concatenate images. This is useful for quickly creating mosaic/tiled output from a directory of images.
 
-Here's an example of one output:
+Here's an example of one output, created from 24 separate images:
 
 ![test-output-image](https://i.imgur.com/MYJZs0J.jpg)
 
